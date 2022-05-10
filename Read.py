@@ -11,4 +11,4 @@ for line in lines:
     count += 1
     print(f'line {count}: {line}')
     
-run_path('C:\\Users\\new user\\Desktop\\Micha Aylee\\Coding\\Flashcode\\Scripts\\STUFFFF!!!!!\\PyPrint\\System file1.py')
+run_path('System file1.py')
